@@ -65,7 +65,7 @@
     "node-fetch": "2.6.6",
     "node-html-parser": "3.3.6",
     "objection": "2.2.18",
-    "p-map": "4.0.0",
+    "p-map": "5.3.0",
     "parsimmon": "1.18.0",
     "pg": "8.7.1",
     "reflect-metadata": "0.1.13",
